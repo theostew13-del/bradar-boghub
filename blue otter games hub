@@ -1,0 +1,218 @@
+import time
+print("\033[32mDISCLAIMER:all data given to bradar is not stored and is only used for addressing you\033[0m")
+time.sleep(3)
+print("credits to Theo for coding bradar(aka the BOG hub)")
+time.sleep(3)
+print("initailising...")
+time.sleep(2)
+print("booting up bradars system...")
+time.sleep(2)
+print("gathering bradars data...")
+time.sleep(2)
+print("bradar start-up complete")
+time.sleep(2)
+print("Welcome to le casa bradar")
+time.sleep(2)
+print("commands:'watch youtube'-'play games'-'add 2 numbers'-'shut up'-what can you do'")
+time.sleep(5)
+print("add two numbers may or may not work well,bradar not too smart")
+time.sleep(3)
+name=input("What is your first name?-")
+if name=="theo":
+ print("hello creator :)")
+if name=="dexter":
+  print("the goat has arrived")
+if name=="Dexter":
+  print("the goat has arrived")
+time.sleep(3)
+age=input("please enter your age.-")
+home=input("please enter your country of origin.-")
+time.sleep(0.5)
+if home=="isreal":
+  print("bradar hate isreal")
+if home=="israel":
+  print("bradar hate israel")
+print("nice")
+time.sleep(1.5)
+school=input("do you attend or have previously attended st julians?-")
+if school=="no":
+ check=input("has this been given to you by a member of st julians,and/or theo/dexter?-")
+ if check=="no":
+  print("then you are not autherised to use this site beta.if you are found to be using our game site bradar will ban you")
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+  print(".")
+  time.sleep(120)
+print("Welcome,",name,",",age,",from",home)
+time.sleep(2)
+task=input("What would you like to do today ?-")
+if task=="take me to bradar.ai":
+    print("bradar language model is not done yet")
+if task=="shut up":
+ print("how dare you disrespect bradar,",name)
+ time.sleep(1)
+ print("i am not just a websites code.i am le bradar.")
+ time.sleep(2)
+ print("intialise computer cash and destruction")
+ time.sleep(2)
+ print("begin battery drain,CPU and GPU overload")
+ time.sleep(2)
+ print("5")
+ time.sleep(1)
+ print("4")
+ time.sleep(1)
+ print("3")
+ time.sleep(1)
+ print("2")
+ time.sleep(1)
+ print("1")
+ time.sleep(1)
+ print("goodbye")
+ time.sleep(5)
+ print("haha just joking beta")
+ time.sleep(1)
+if task=="what can you do":
+  print()
+  print("i am bradar. a basic ask and reply-to-answer language model.i can link you to a youtube proxy,do addition and send you to BOG(and tell you this).i will have more capabilites in the near future")
+time.sleep(7)
+if task=="no":
+  print("ok vro have fun")
+if task=="add 2 numbers":
+ # Store input numbers
+ num1 = input('Enter first number: ')
+ num2 = input('Enter second number: ')
+
+# Add two numbers
+ sum = float(num1) + float(num2)
+
+# Display the sum
+ print('bradars brain says the sum of {0} and {1} is {2} beta'.format(num1, num2, sum))
+if task=="play games":
+ print(task,"?")
+ time.sleep(2)
+ print("alr bet")
+ time.sleep(2)
+ print("go here bro")
+ print("https://sites.google.com/view/blue-otter-games-co-uk/home?authuser=0")
+time.sleep(1)
+if task=="watch youtube":
+   time.sleep(1)
+   print("ok then.")
+   time.sleep(1)
+   print("go here:")
+   time.sleep(1)
+   print("https://51.158.204.81/?__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20")
+time.sleep(1)
+task=input("what do you want to do?-")
+if task=="take me to bradar.ai":
+ print("bradar language model is not done yet")
+if task=="add 2 numbers":
+ # Store input numbers
+ num1 = input('Enter first number: ')
+ num2 = input('Enter second number: ')
+
+# Add two numbers
+ sum = float(num1) + float(num2)
+
+# Display the sum
+ print('bradars brain says the sum of {0} and {1} is {2} beta'.format(num1, num2, sum))
+if task=="what can you do":
+  print()
+  print("i am bradar. a basic ask and reply-to-answer language model.i can link you to a youtube proxy,do addition and send you to BOG(and tell you this).i will have more capabilites in the near future")
+  time.sleep(5)
+if task=="nothing":
+  print("ok beta have fun")
+if task=="watch youtube":
+   time.sleep(1)
+   print("ok then beta.")
+   time.sleep(1)
+   print("go here:")
+   time.sleep(1)
+   print("https://51.158.204.81/?__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20")
+time.sleep(1)
+if task=="play games":
+ print(task,"beta ?")
+ time.sleep(2)
+ print("alr bet")
+ time.sleep(2)
+ print("go here")
+ print("https://sites.google.com/view/blue-otter-games-co-uk/home?authuser=0")
+time.sleep(2)
+task=input("what do you want to do?-")
+if task=="take me to bradar.ai":
+ print("bradar language model is not done yet")
+if task=="add 2 numbers":
+ # Store input numbers
+ num1 = input('Enter first number: ')
+ num2 = input('Enter second number: ')
+
+# Add two numbers
+ sum = float(num1) + float(num2)
+
+# Display the sum
+ print('bradars brain says the sum of {0} and {1} is {2} beta'.format(num1, num2, sum))
+if task=="what can you do":
+  print()
+  print("i am bradar.i can ask questions and reply to answers.i can link you to a youtube proxy,do addition and send you to BOG(and tell you this).i will have more capabilites in the near future")
+  time.sleep(5)
+if task =="nothing":
+  print("ok have fun beta")
+if task=="take me to bradar.ai":
+ print("bradar language model is not done yet")
+if task=="idk":
+ print("well then,",name,"why are you here, dummy")
+task=input("what do you want to do?-")
+if task=="add 2 numbers":
+ num1 = input('Enter first number: ')
+ num2 = input('Enter second number: ')
+ sum = float(num1) + float(num2)
+ print('bradars brain says the sum of {0} and {1} is {2} beta'.format(num1, num2, sum))
+if task=="what can you do":
+  print()
+  print("i am bradar.i can ask questions and reply to answers.i can link you to a youtube proxy,do addition and send you to BOG(and tell you this).i will have more capabilites in the near future")
+  time.sleep(5)
+if task=="nothing":
+  print("ok beta have fun")
+if task=="watch youtube":
+   time.sleep(1)
+   print("ok then beta.")
+   time.sleep(1)
+   print("go here:")
+   time.sleep(1)
+   print("https://51.158.204.81/?__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20")
+time.sleep(1)
+if task=="play games":
+ print(task,"beta ?")
+ time.sleep(2)
+ print("alr bet")
+ time.sleep(2)
+ print("go here")
+ print("https://sites.google.com/view/blue-otter-games-co-uk/home?authuser=0")
+ if task=="take me to bradar.ai":
+     print("bradar language model is not done yet")
